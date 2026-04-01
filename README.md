@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=E94560&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Otabek+%F0%9F%91%8B;Full+stack+mobile+engineer+%E2%80%A2+TypeScript+%E2%80%A2+React+Native;Mobile%2C+web+%26+APIs+%E2%80%94+end-to-end+product+delivery" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=E94560&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Otabek+%F0%9F%91%8B;React+Native+%E2%80%A2+Swift+%E2%80%A2+Flutter+%E2%80%94+mobile+apps;Cross-platform+%26+native+%E2%80%94+polished+UX+to+the+stores" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -26,26 +26,30 @@
 <tr>
 <td width="58%" valign="top">
 
-- 🔭 **Full stack mobile engineer** — **React Native** / mobile-first UX, plus **web** and **APIs** end to end  
-- 🌱 Sharpening **TypeScript**, **React Native**, **Node**, and **open source** collaboration  
-- 👯 Open to **collaboration** on mobile products, SDKs, and meaningful OSS  
-- 💬 Ask me about **mobile + backend** flows, **RN**, **Git**, or **freelance / contributor** work  
+- 🔭 I build **mobile apps** with **React Native**, **Swift**, and **Flutter** — that’s my main day-to-day focus  
+- 🌱 Sharpening **TypeScript**, **Dart**, **Swift**, **RN**, **Flutter**, and **open source** collaboration  
+- 👯 Open to **collaboration** on **iOS/Android** products, SDKs, and meaningful OSS  
+- 💬 Ask me about **RN**, **Swift**, **Flutter**, **mobile architecture**, **Git**, or **freelance / contributor** work  
 - ⚡ *Small, focused changes beat risky big-bang rewrites*  
-- 🎯 I care about **polished mobile UX**, **reliable services**, and **maintainable** codebases  
+- 🎯 I care about **smooth native UX**, **performance on device**, and **maintainable** mobile codebases  
 
 </td>
 <td width="42%" align="center" valign="middle">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TS" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React Native" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40" alt="Swift" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" />
 
 <br/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+
+<br/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
 
 </td>
@@ -54,10 +58,10 @@
 
 ---
 
-### Languages & tools
+### Mobile stack & tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,postgres,mongodb,kotlin,swift,git,github,vscode,figma,html,css&perline=14&theme=dark" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=react,dart,flutter,swift,ts,js,nodejs,git,github,vscode,figma&perline=12&theme=dark" alt="skills" />
 </p>
 
 ---
