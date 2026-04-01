@@ -74,8 +74,8 @@
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Denis13tm&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis13tm&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="top langs" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Denis13tm&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="stats" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Denis13tm&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="top langs" />
 
 </div>
 
