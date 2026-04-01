@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=E94560&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Otabek+%F0%9F%91%8B;Full+stack+engineer+%E2%80%A2+TypeScript+%E2%80%A2+React;Web%2C+mobile+%26+APIs+%E2%80%94+solid+end-to-end+delivery" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=E94560&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Otabek+%F0%9F%91%8B;Full+stack+mobile+engineer+%E2%80%A2+TypeScript+%E2%80%A2+React+Native;Mobile%2C+web+%26+APIs+%E2%80%94+end-to-end+product+delivery" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -26,12 +26,12 @@
 <tr>
 <td width="58%" valign="top">
 
-- 🔭 **Full stack engineer** — web, APIs, and mobile-oriented delivery  
-- 🌱 Sharpening **TypeScript**, **React / React Native**, and **open source** collaboration  
-- 👯 Open to **collaboration** on products and meaningful OSS  
-- 💬 Ask me about **full stack flows**, **Git**, or **freelance / contributor** work  
+- 🔭 **Full stack mobile engineer** — **React Native** / mobile-first UX, plus **web** and **APIs** end to end  
+- 🌱 Sharpening **TypeScript**, **React Native**, **Node**, and **open source** collaboration  
+- 👯 Open to **collaboration** on mobile products, SDKs, and meaningful OSS  
+- 💬 Ask me about **mobile + backend** flows, **RN**, **Git**, or **freelance / contributor** work  
 - ⚡ *Small, focused changes beat risky big-bang rewrites*  
-- 🎯 I care about **clear UX**, **reliable backends**, and **maintainable** codebases  
+- 🎯 I care about **polished mobile UX**, **reliable services**, and **maintainable** codebases  
 
 </td>
 <td width="42%" align="center" valign="middle">
@@ -57,7 +57,7 @@
 ### Languages & tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,postgres,mongodb,git,github,vscode,figma,html,css&perline=14&theme=dark" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,postgres,mongodb,kotlin,swift,git,github,vscode,figma,html,css&perline=14&theme=dark" alt="skills" />
 </p>
 
 ---
