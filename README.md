@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=E94560&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Otabek+%F0%9F%91%8B;React+Native+%E2%80%A2+Swift+%E2%80%A2+Flutter+%E2%80%94+mobile+apps;Cross-platform+%26+native+%E2%80%94+polished+UX+to+the+stores" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=E94560&center=true&vCenter=true&width=1000&height=60&paddingX=32&lines=Hi%2C+I'm+Otabek+%F0%9F%91%8B;React+Native+%E2%80%A2+Swift+%E2%80%A2+Flutter;Mobile+apps+%E2%80%94+iOS+%26+Android;Polished+UX+from+idea+to+the+stores" alt="Typing SVG" />
 
 <br/><br/>
 
