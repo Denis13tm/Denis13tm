@@ -1,4 +1,4 @@
-<!-- Profil README: github.com/USERNAME/USERNAME repo rootida joylashtiring. Statistikalar uchun USERNAME: otawflash -->
+<!-- Profil README: github.com/USERNAME/USERNAME repo rootida joylashtiring. Statistikalar uchun USERNAME: Denis13tm -->
 
 <div align="center">
 
@@ -10,9 +10,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=otawflash&label=Profile%20views&color=6e5494&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Denis13tm&label=Profile%20views&color=6e5494&style=for-the-badge" alt="profile views" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/otawflash?label=Followers&style=for-the-badge&color=0d1117&logo=github" alt="followers" />
+<img src="https://img.shields.io/github/followers/Denis13tm?label=Followers&style=for-the-badge&color=0d1117&logo=github" alt="followers" />
 
 </div>
 
@@ -66,12 +66,12 @@
 
 <div align="center">
 
-<img height="180" src="https://streak-stats.demolab.com?user=otawflash&theme=tokyonight&hide_border=true&border_radius=12&mode=daily" alt="streak" />
+<img height="180" src="https://streak-stats.demolab.com?user=Denis13tm&theme=tokyonight&hide_border=true&border_radius=12&mode=daily" alt="streak" />
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=otawflash&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otawflash&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="top langs" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Denis13tm&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis13tm&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="top langs" />
 
 </div>
 
@@ -81,7 +81,7 @@
 
 <div align="center">
 
-<a href="https://github.com/otawflash">
+<a href="https://github.com/Denis13tm">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/otabek-tuychiev-725977224/">
